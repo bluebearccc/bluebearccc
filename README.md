@@ -1,4 +1,6 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AAAAAA&height=100&section=header&text=Im%20BlueBear%20🐻&fontSize=50&fontColor=666666)
+</p>
 
 <h2 align="center"><strong>For more information</strong></h2>
 
