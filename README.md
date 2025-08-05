@@ -12,6 +12,10 @@
 </a>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
+</a>
+
+<a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/>
 </a>
 
