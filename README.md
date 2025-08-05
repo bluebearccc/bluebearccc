@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AAAAAA&height=100&section=header&text=I%20Am%20BlueBear%20🐻&fontSize=50&fontColor=666666)
 
 ---
+
+### 👨‍💻 About Me
+
+🎓 I'm a 3rd-year Software Engineering student passionate about backend development.  
+💻 I work mostly with **Java**, **Spring Boot**, and **SQL Server**.  
+🚀 I'm also exploring AI integration with RAG and Redis in movie booking systems.
+
+---
 <h2 align="center"><strong>For more information</strong></h2>
 
 <p align="center">
