@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi 👋 Im Bluebear%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi%20👋%20Im%20Bluebear%20render&fontSize=90)
 <!--
 **bluebearccc/bluebearccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
