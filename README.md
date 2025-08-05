@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AAAAAA&height=100&section=header&text=I%20Am%20BlueBear%20🐻&fontSize=50&fontColor=666666)
 
 ---
+
+<p>
 I'm a third-year Software Engineering student at FPT University who is passionate about making technology more accessible, building useful products that empower people, and contributing to the tech community. I enjoy working with technologies like Java, Spring Boot, SQL Server, and Redis. I'm also exploring AI integration using RAG and vector databases in practical applications. Recently, I started building a smart chatbot for a movie ticket booking system that combines Spring Boot with AI and real-time data.
+</p>
+
 ---
 <h2 align="center"><strong>For more information</strong></h2>
 
