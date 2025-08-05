@@ -26,8 +26,8 @@
 </p>
 
 ---
-<h2 align="left"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
