@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#FFCCFF&height=100&section=header&text=Hi%20👋%20Im%20Bluebear&fontSize=50)
-![header](https://capsule-render.vercel.app/api?type=waving&color=#FFCCFF&height=100&section=header&text=capsule%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#3399ff&height=100&section=header&text=capsule%20render&fontSize=50)
 <!--
 **bluebearccc/bluebearccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
