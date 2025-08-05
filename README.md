@@ -65,3 +65,4 @@ I'm a third-year Software Engineering student at FPT University who is passionat
 ---
 
 ⭐ *Thanks for visiting my GitHub profile!*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=AAAAAA&height=100&section=footer&text=See%20Yaaa&fontSize=50&fontColor=666666)
